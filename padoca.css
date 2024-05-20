@@ -1,0 +1,63 @@
+body{
+    font-family: tahoma;
+    background-color: bisque;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo{
+    text-align: center;
+    border-bottom: 3px solid black;
+    border-color: orange;
+padding-bottom: 50px;
+}
+.link-topo{
+font-size: 25px;
+padding-left: 30px;
+color: black;
+text-decoration: none;
+
+}
+.produtos2{
+    text-align: center;
+    background-color: orangered;
+    padding-bottom: 30px;
+padding-top: 10px;
+color: white;
+    p{
+        padding-left: 250px;
+        padding-right: 250px;
+    font-size: 20px;
+    }
+
+}
+.produto1{
+    text-align: center;
+    h1{
+font-size: 40px;
+    }
+    p{
+        font-size: 23px; 
+        color: orange;
+    }
+    img{
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    h3{
+        font-size: 22px;  
+    }
+
+}
+.contato1{
+    text-align: center;
+    padding-bottom: 10px;
+    h1{
+        font-size: 24px;
+        color: black;
+    }
+    p{
+        color: black;
+    }
+    
+}
